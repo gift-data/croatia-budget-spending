@@ -3885,15 +3885,24 @@
     }
   ],
   "title": "Croatia",
-  "description": "Croatia",
+  "description": "Spending information of the central government of Croatia.",
   "tags": [
-    "national"
+    "National"
   ],
   "govt_level": "National",
-  "pub_institutional_name": "Croatia",
+  "pub_institutional_name": "Ministry of Finance",
   "country": "Croatia",
   "continent": "Europe",
   "periodicity": "Yearly",
   "start_date": "2016-01-01",
-  "end_date": "2018-12-31"
+  "end_date": "2019-12-31",
+  "createdAt": "2021-06-01T16:12:12Z",
+  "updatedAt": "2021-06-01T16:19:45Z",
+  "region": "Europe",
+  "years_included": [
+    "2016",
+    "2017",
+    "2018",
+    "2019"
+  ]
 }
